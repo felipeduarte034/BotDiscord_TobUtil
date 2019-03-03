@@ -4,8 +4,7 @@ const vote = require("./vote-reaction.js");
 const cmd = require("./commands.js");
 
 ////Link add bot
-//// discordapp.com/oauth2/authorize?=&client_id=550396218493108246&scope=bot&permissions=8
-//550396218493108246
+//// discordapp.com/oauth2/authorize?=&client_id=ID_BOT_AQUI&scope=bot&permissions=8
 
 //client.user.username
 

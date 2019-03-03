@@ -1,5 +1,5 @@
 {
     "prefix": "!",
-    "token": "NTUwMzk2MjE4NDkzMTA4MjQ2.D1h0Rw.LH02_hGV47aUcTmK0iHzKIgeyNQ",
-    "url_conn": "mongodb+srv://lipe_013:88dxxf32@cluster0-x8yue.mongodb.net/BotTobUtil"
+    "token": "",
+    "url_conn": "mongodb://user@password/NameBancoDeDados"
 }
